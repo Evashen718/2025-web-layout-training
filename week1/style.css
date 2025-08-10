@@ -189,7 +189,7 @@ body{
 
 /* 頁面 */
 .header{
-    background-image: url(https://github.com/Evashen718/2025-web-layout-training/blob/main/week1/img/hero.png?raw=true);
+    background-image: url(./img/hero.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
